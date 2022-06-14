@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+    margin:auto;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+button{
+    margin: 10px 50px
+}
